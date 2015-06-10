@@ -12,7 +12,7 @@ int main(void)
 	}
 	foo();
 	printf("none linkage:%d\n", i);
-   return 0;
+	return 0;
 }
 
 void foo(void)
